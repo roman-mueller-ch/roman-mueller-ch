@@ -11,7 +11,7 @@ Software developer based in Switzerland. I build small tools that solve one anno
 <table>
 <tr>
 <td width="260" valign="top">
-<a href="https://github.com/roman-mueller-ch/MostlyLevel"><img src="https://raw.githubusercontent.com/roman-mueller-ch/MostlyLevel/main/assets/readme-van-live.png" width="240" alt="MostlyLevel showing a tilted van"></a>
+<a href="https://github.com/roman-mueller-ch/MostlyLevel"><img src="https://raw.githubusercontent.com/roman-mueller-ch/MostlyLevel/main/assets/readme-horizon-live.png" width="240" alt="MostlyLevel horizon view: the van in front of an aircraft-style horizon with pitch and roll readouts"></a>
 </td>
 <td valign="top">
 
@@ -24,7 +24,7 @@ Software developer based in Switzerland. I build small tools that solve one anno
 </td>
 </tr>
 <tr>
-<td width="260" valign="top">
+<td width="260" align="center" valign="middle">
 <a href="https://github.com/roman-mueller-ch/shelfie-parts"><img src="https://raw.githubusercontent.com/roman-mueller-ch/shelfie-parts/main/capture-web/public/icon-512.png" width="160" alt="Shelfie app icon"></a>
 </td>
 <td valign="top">
