@@ -11,6 +11,20 @@ Software developer based in Switzerland. I build small tools that solve one anno
 <table>
 <tr>
 <td width="260" valign="top">
+<a href="https://github.com/roman-mueller-ch/MMM-SkyScope"><img src="https://raw.githubusercontent.com/roman-mueller-ch/MMM-SkyScope/main/docs/demo.png" width="240" alt="MMM-SkyScope in demo mode: a green radar scope with plane silhouettes coloured by height and a list of the nearest flights"></a>
+</td>
+<td valign="top">
+
+### [✈️ MMM-SkyScope](https://github.com/roman-mueller-ch/MMM-SkyScope)
+
+**A live radar scope of the planes around your home for MagicMirror².** Each plane is a silhouette turned the way it flies and coloured by its height, with a trail behind it and a sweeping beam over the top. The nearest flights are listed underneath. It uses free community ADS-B feeds, needs no API key and has no dependencies to install.
+
+`JavaScript` `Node.js` `MagicMirror²` `Canvas` `ADS-B`
+
+</td>
+</tr>
+<tr>
+<td width="260" valign="top">
 <a href="https://github.com/roman-mueller-ch/MostlyLevel"><img src="https://raw.githubusercontent.com/roman-mueller-ch/MostlyLevel/main/assets/readme-horizon-live.png" width="240" alt="MostlyLevel horizon view: the van in front of an aircraft-style horizon with pitch and roll readouts"></a>
 </td>
 <td valign="top">
